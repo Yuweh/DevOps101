@@ -1,4 +1,4 @@
-# DevOps101
+## DevOps101
 
 works with
 [![IDE](https://img.shields.io/badge/Xcode-9-blue.svg)](https://developer.apple.com/xcode/)
@@ -10,18 +10,26 @@ works with
 
 Apply DevOps and practice the ff.
 
-### Continuous Integration (CI)
+#### Continuous Integration (CI)
 
-### Continuous Development (CD)
+is the software engineering practice of frequently integrating isolated changes to a larger code base and testing them immediately.
+
+The goal of Continuous Integration is to verify the correctness of those changes and to detect integration errors as quickly as possible.
+For this it is quite common to run automated tests after every integration.
+
+
+#### Continuous Development (CD)
+
+is the ability to build software that can be released to production at any time. The goal of Continuous Delivery is to ensure the code of a software is always in a deployable state, no matter if it includes new features or just bug fixes.
 
 
 and use the ff. tools:
 
-### JENKINS
+#### JENKINS
 
-### FASTLANE
+#### FASTLANE
 
-### and integrate it with GITHUB or BITBUCKET XD
+#### and integrate it with GITHUB or BITBUCKET XD
 
 
 
