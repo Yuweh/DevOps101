@@ -6,7 +6,9 @@ works with
 [![Platform](https://img.shields.io/badge/platform-iOS%2011-green.svg)](https://developer.apple.com/ios/)
 
 
-## OBJECTIVES:
+<img src="https://github.com/Yuweh/DevOps101/blob/master/DevOpsBanner01.png" width="400"> 
+
+### OBJECTIVES:
 
 Apply DevOps and practice the ff.
 
