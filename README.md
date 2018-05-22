@@ -31,7 +31,11 @@ and use the ff. tools:
 
 #### JENKINS
 
+an Automated CI server that allows with continuous integration and facilitating technical aspects of continuous delivery.
+
 #### FASTLANE
+
+Fastlane is a set of tools written in Ruby which helps you automate your Continuous Deployment process.
 
 #### and integrate it with GITHUB or BITBUCKET XD
 
