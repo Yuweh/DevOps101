@@ -43,6 +43,8 @@ Fastlane is a set of tools written in Ruby which helps you automate your Continu
 
 ------
 
+If this project helped you or you have questions or proposals, please message me at xiapps.wordpress.com //thank you
+
 [![forthebadge](http://forthebadge.com/images/badges/made-with-swift.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 -----
