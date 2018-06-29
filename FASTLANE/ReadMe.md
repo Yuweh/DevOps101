@@ -36,6 +36,33 @@ configure NEW SCHEME to Snapfile and Fastfile
 fastlane **screenshots** (**could be configured)
 
 
+### Sample Results
+
++-----------+-------+-------+-------+-------+
+|             snapshot results              |
++-----------+-------+-------+-------+-------+
+| Device    | en-US | fr-FR | es_ES | pt_PT |
++-----------+-------+-------+-------+-------+
+| iPhone 8  |  💚   |  💚   |  💚   |  💚   |
+| iPhone 4s |  💚   |  💚   |  💚   |  💚   |
+| iPhone SE |  💚   |  💚   |  💚   |  💚   |
++-----------+-------+-------+-------+-------+
+
+[16:19:04]: Generating HTML Report
+[16:19:04]: Successfully created HTML file with an overview of all the screenshots: './screenshots/screenshots.html'
+
++------+---------------------+-------------+
+|             fastlane summary             |
++------+---------------------+-------------+
+| Step | Action              | Time (in s) |
++------+---------------------+-------------+
+| 1    | default_platform    | 0           |
+| 2    | capture_screenshots | 3692        |
++------+---------------------+-------------+
+
+[16:19:07]: fastlane.tools just saved you 62 minutes! 🎉
+
+
 ------
 
 [![forthebadge](http://forthebadge.com/images/badges/made-with-swift.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
